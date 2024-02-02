@@ -1,0 +1,25 @@
+.name{
+    color: #fff;
+    font-weight: bolder;
+    line-height: 1.1;
+    font-size: 25px;
+}
+.name:hover{
+    color: rgb(255, 152, 0);
+}
+.location{
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+}
+.location:hover{
+    color: rgb(255, 152, 0);
+}
+.seen{
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+}
+.seen:hover{
+    color: rgb(255, 152, 0);
+}
